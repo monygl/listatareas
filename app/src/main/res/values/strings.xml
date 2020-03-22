@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lista Tareas</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_activity_name">Todas las tareas</string>
+    <string name="add_task_activity_name">Agregar nueva tarea</string>
+
+
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+
+    <string name="edit_task_description">Describe tu Tarea&#8230;</string>
+    <string name="priority_string">Prioridad</string>
+
+    <string name="high_priority">Alta</string>
+    <string name="med_priority">Media</string>
+    <string name="low_priority">Baja</string>
+
+    <string name="add_button">Agregar</string>
+    <string name="update_button">Actualizar</string>
+</resources>
